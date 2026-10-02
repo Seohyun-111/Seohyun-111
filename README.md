@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9ebb,100:ff6b95&text=%20Seohyun's%20GITHUB%20&height=200&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36&fontColor=ffffff)
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Changa+One&size=30&pause=1000&color=F78AD7&align=center&width=600&lines=I'm+Seohyun+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Changa+One&size=30&pause=1000&color=F78AD7&center=true&width=500&lines=I'm+Seohyun+!" alt="Typing SVG" /></a>
 </div>
 
 <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@600;700&display=swap" rel="stylesheet">
