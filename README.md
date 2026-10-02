@@ -23,8 +23,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyun-111&title_color=ff6b95&text_color=ffb7c5&icon_color=ff6b95&border_color=ff9ebb&bg_color=242424)](https://github.com/Seohyun-111/github-readme-stats)
 
 # <span style="font-family: 'Exo 2', sans-serif;"> My Page !💕 </span>
+  
 <div align="center">
-  <a href="https://seohyun-111.github.io/mypage/" style="display: inline-block; background-color: #ff6b95; color: #ffffff; padding: 10px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; font-family: 'Exo 2', sans-serif; box-shadow: 0 4px 10px rgba(255, 107, 149, 0.3);">
-    Seohyun's Page ❤️
+  <a href="https://seohyun-111.github.io/mypage/">
+    <img src="https://img.shields.io/badge/Seohyun's Page ❤️-ff6b95?style=for-the-badge&logo=&logoColor=white&color=ff6b95">
   </a>
 </div>
